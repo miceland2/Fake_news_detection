@@ -7,4 +7,4 @@ D1 - https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 D2 - https://paperswithcode.com/dataset/liar
 D3 - https://www.kaggle.com/c/fake-news/data
 D4 - https://github.com/KaiDMML/FakeNewsNet
-D5 - 
+D5 - https://data.mendeley.com/datasets/zwfdmp5syg/1
